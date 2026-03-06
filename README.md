@@ -10,7 +10,7 @@
 <br/>
 <p align="center">
   <a href="https://naumit.duckdns.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;Building+Scalable+AI+Solutions;Crafting+Premium+Web+Experiences;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Loves+Building+and+Solving+Problems;Crafting+Web+Experiences;Eager+to+Learn+and+Grow" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,13 +18,13 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face" width="35" height="35" /> About Me
 
-I am a **Senior Full-Stack & AI Engineer** with a passion for architecting scalable systems and mentoring developers. With deep expertise spanning from **cutting-edge machine learning pipelines** to **high-throughput web architectures**, I focus on engineering excellence and maintainability at scale.
+I am a **Computer Science Engineer** who loves building and solving problems. As a fresher with a strong passion for software development, I am eager to learn, explore new technologies, and create impactful applications.
 
-Beyond building robust digital products, I thrive on solving complex architectural challenges, establishing best practices, and guiding teams to build cleaner, more efficient software.
+Beyond writing code, I thrive on understanding how complex systems work, improving my skills, and collaborating with others to build awesome digital products.
 
-*   **Current Focus:** Architecting privacy-first local AI tools, real-time distributed systems, and optimizing LLM integrations.
-*   **Core Competencies:** System Design, Full-Stack Architecture (React, Node.js, Python), Machine Learning Infrastructure, and Technical Mentorship.
-*   **Philosophy:** Great software is built on clean architecture, relentless optimization, and empowering others to succeed.
+*   **Current Focus:** Building modern full-stack applications, exploring AI tools, and continuously leveling up my problem-solving skills.
+*   **Core Competencies:** Full-Stack Development (React, Node.js, Python), Algorithms, and Machine Learning basics.
+*   **Philosophy:** Great software is built on curiosity, clean coding practices, and a persistent drive to learn and improve.
 
 ---
 
