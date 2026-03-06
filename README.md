@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20Naumit!&fontSize=70&fontAlignY=38&desc=Architecting%20Scalable%20AI%20Solutions%20%26%20Premium%20Web%20Experiences&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20Naumit!&fontSize=70&fontAlignY=38&desc=Architecting%20Scalable%20AI%20Solutions%20and%20Premium%20Web%20Experiences&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/naumit-agarwal-09bb50381"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://naumit.duckdns.org/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Portfolio" /></a>
 </p>
 
@@ -20,7 +20,7 @@
 
 I am a passionate **Software Engineer** specializing in bridging the gap between **cutting-edge AI/ML** and **robust full-stack web architectures**. I don't just write code; I build **scalable, high-performance digital products** that solve real-world problems. 
 
-Whether it's designing a Real-Time Conversational AI backend or crafting pixel-perfect, highly responsive React frontends, my focus is always on delivering premium value in every commit.
+Whether it's designing a Real-Time Conversational AI backend or crafting responsive React frontends, my focus is always on delivering impactful and maintainable solutions.
 
 *   **Current Focus:** Building privacy-first local AI tools, real-time web socket systems, and optimizing LLM pipelines.
 *   **Core Competencies:** Full-Stack Development (React, Node.js, Python), Machine Learning (PyTorch, Custom Models), API & Database Architecture.
@@ -144,23 +144,10 @@ Below are some of my top deployed applications, showcasing my ability to build c
 
 Beyond the UI, I engineer complex backend systems and ML pipelines:
 
-*   [**Real-Time Conversational AI Backend**](https://github.com/9mit/Real-Time-Conversational-AI-Backend) ??? High-throughput async Python backend implementing real-time bi-directional WebSocket communication and LLM streaming.
-*   [**SentinelSight**](https://github.com/9mit/SentinelSight) ??? Secure, local-first video analytics using CV to detect intrusions in real-time.
-*   [**LLM RAG Evaluation Pipeline**](https://github.com/9mit/-LLM-RAG-Evaluation-Pipeline) ??? Zero-cost, real-time quality assurance for RAG systems using local Small Language Models.
-*   [**LIFE-OS**](https://github.com/9mit/LIFE-OS) ??? A privacy-first, browser-based assistant analyzing offline data securely.
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Impact & Activity Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9mit&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9mit&layout=compact&theme=nord&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9mit&theme=nord&hide_border=true&background=0d1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</div>
+*   [**Real-Time Conversational AI Backend**](https://github.com/9mit/Real-Time-Conversational-AI-Backend) — High-throughput async Python backend implementing real-time bi-directional WebSocket communication and LLM streaming.
+*   [**SentinelSight**](https://github.com/9mit/SentinelSight) — Secure, local-first video analytics using CV to detect intrusions in real-time.
+*   [**LLM RAG Evaluation Pipeline**](https://github.com/9mit/-LLM-RAG-Evaluation-Pipeline) — Zero-cost, real-time quality assurance for RAG systems using local Small Language Models.
+*   [**LIFE-OS**](https://github.com/9mit/LIFE-OS) — A privacy-first, browser-based assistant analyzing offline data securely.
 
 <br/>
 
