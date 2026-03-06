@@ -66,19 +66,6 @@ Below are some of my top deployed applications, showcasing my ability to build c
   <!-- ROW 2 -->
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>Cricket Score Predictor</h3>
-      <p><b>AI Match Analytics</b></p>
-      <p><i>Predicts final scores for T20, ODI, and Test matches using sophisticated machine learning models.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      </p>
-      <a href="https://huggingface.co/spaces/Spidercraft01/cricket-score-predictor">
-        <img src="https://img.shields.io/badge/Launch_App-Live_Demo-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo" />
-      </a>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center" valign="top">
       <h3>JNTUH Results</h3>
       <p><b>University Academic Portal</b></p>
       <p><i>A fast, reliable portal to instantly access and analyze JNTUH academic results.</i></p>
@@ -87,6 +74,19 @@ Below are some of my top deployed applications, showcasing my ability to build c
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
       <a href="https://jntuh-results.duckdns.org/">
+        <img src="https://img.shields.io/badge/Launch_App-Live_Demo-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo" />
+      </a>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Cricket Score Predictor</h3>
+      <p><b>AI Match Analytics</b></p>
+      <p><i>Predicts final scores for T20, ODI, and Test matches using sophisticated machine learning models.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      </p>
+      <a href="https://huggingface.co/spaces/Spidercraft01/cricket-score-predictor">
         <img src="https://img.shields.io/badge/Launch_App-Live_Demo-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo" />
       </a>
       <br/><br/>
@@ -109,15 +109,15 @@ Below are some of my top deployed applications, showcasing my ability to build c
       <br/><br/>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>Educase Task</h3>
-      <p><b>Responsive Front-End</b></p>
-      <p><i>A pixel-perfect, highly responsive React.js frontend application strictly following design mockups.</i></p>
+      <h3>YouWare Profile</h3>
+      <p><b>AI Projects & Apps Creator</b></p>
+      <p><i>My curated profile of AI tools, custom agents, and intelligent applications built on YouWare.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/YouWare-000000?style=flat-square" />
       </p>
-      <a href="https://edpopx.netlify.app/">
-        <img src="https://img.shields.io/badge/Launch_App-Live_Demo-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo" />
+      <a href="https://www.youware.com/profile/rVXdhIRUttOsw3AEV6zAlr9wkWv1">
+        <img src="https://img.shields.io/badge/View_Profile-%F0%9F%9A%80_Live-2ea44f?style=for-the-badge" alt="Live Demo" />
       </a>
       <br/><br/>
     </td>
