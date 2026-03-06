@@ -79,14 +79,14 @@ Below are some of my top deployed applications, showcasing my ability to build c
       <br/><br/>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>API Key Validator</h3>
-      <p><b>Secure Client-Side Utility</b></p>
-      <p><i>Securely explore API capabilities for major LLM providers without risking key exposure.</i></p>
+      <h3>JNTUH Results</h3>
+      <p><b>University Academic Portal</b></p>
+      <p><i>A fast, reliable portal to instantly access and analyze JNTUH academic results.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=auth0&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
-      <a href="https://api-key-validator.netlify.app/">
+      <a href="https://jntuh-results.duckdns.org/">
         <img src="https://img.shields.io/badge/Launch_App-Live_Demo-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo" />
       </a>
       <br/><br/>
