@@ -18,13 +18,13 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face" width="35" height="35" /> About Me
 
-I am a passionate **Software Engineer** specializing in bridging the gap between **cutting-edge AI/ML** and **robust full-stack web architectures**. I don't just write code; I build **scalable, high-performance digital products** that solve real-world problems. 
+I am a **Senior Full-Stack & AI Engineer** with a passion for architecting scalable systems and mentoring developers. With deep expertise spanning from **cutting-edge machine learning pipelines** to **high-throughput web architectures**, I focus on engineering excellence and maintainability at scale.
 
-Whether it's designing a Real-Time Conversational AI backend or crafting responsive React frontends, my focus is always on delivering impactful and maintainable solutions.
+Beyond building robust digital products, I thrive on solving complex architectural challenges, establishing best practices, and guiding teams to build cleaner, more efficient software.
 
-*   **Current Focus:** Building privacy-first local AI tools, real-time web socket systems, and optimizing LLM pipelines.
-*   **Core Competencies:** Full-Stack Development (React, Node.js, Python), Machine Learning (PyTorch, Custom Models), API & Database Architecture.
-*   **Philosophy:** Code should be as beautiful on the inside (architecture) as it is on the outside (UI/UX).
+*   **Current Focus:** Architecting privacy-first local AI tools, real-time distributed systems, and optimizing LLM integrations.
+*   **Core Competencies:** System Design, Full-Stack Architecture (React, Node.js, Python), Machine Learning Infrastructure, and Technical Mentorship.
+*   **Philosophy:** Great software is built on clean architecture, relentless optimization, and empowering others to succeed.
 
 ---
 
@@ -144,10 +144,10 @@ Below are some of my top deployed applications, showcasing my ability to build c
 
 Beyond the UI, I engineer complex backend systems and ML pipelines:
 
-*   [**Real-Time Conversational AI Backend**](https://github.com/9mit/Real-Time-Conversational-AI-Backend) — High-throughput async Python backend implementing real-time bi-directional WebSocket communication and LLM streaming.
-*   [**SentinelSight**](https://github.com/9mit/SentinelSight) — Secure, local-first video analytics using CV to detect intrusions in real-time.
-*   [**LLM RAG Evaluation Pipeline**](https://github.com/9mit/-LLM-RAG-Evaluation-Pipeline) — Zero-cost, real-time quality assurance for RAG systems using local Small Language Models.
-*   [**LIFE-OS**](https://github.com/9mit/LIFE-OS) — A privacy-first, browser-based assistant analyzing offline data securely.
+*   [**Real-Time Conversational AI Backend**](https://github.com/9mit/Real-Time-Conversational-AI-Backend) - High-throughput async Python backend implementing real-time bi-directional WebSocket communication and LLM streaming.
+*   [**SentinelSight**](https://github.com/9mit/SentinelSight) - Secure, local-first video analytics using CV to detect intrusions in real-time.
+*   [**LLM RAG Evaluation Pipeline**](https://github.com/9mit/-LLM-RAG-Evaluation-Pipeline) - Zero-cost, real-time quality assurance for RAG systems using local Small Language Models.
+*   [**LIFE-OS**](https://github.com/9mit/LIFE-OS) - A privacy-first, browser-based assistant analyzing offline data securely.
 
 <br/>
 
