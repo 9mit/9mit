@@ -8,23 +8,28 @@
 </p>
 
 <br/>
+
 <p align="center">
   <a href="https://naumit.duckdns.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Loves+Building+and+Solving+Problems;Crafting+Web+Experiences;Eager+to+Learn+and+Grow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=800&lines=Data+Science+%26+Engineering+Grad;Loves+Building+and+Solving+Problems;Crafting+Web+Experiences;Eager+to+Learn+and+Grow" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=9mit&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face" width="35" height="35" /> About Me
 
-I am a **Computer Science Engineer** who loves building and solving problems. As a fresher with a strong passion for software development, I am eager to learn, explore new technologies, and create impactful applications.
+I am a **Data Science and Engineering graduate** who loves building and solving complex problems. As a fresher with a strong passion for software development, I am eager to learn, explore new technologies, and create impactful applications.
 
-Beyond writing code, I thrive on understanding how complex systems work, improving my skills, and collaborating with others to build awesome digital products.
+Beyond writing code and tackling competitive programming challenges, I thrive on understanding how complex systems work, improving my skills, and collaborating with others to build awesome digital products.
 
-*   **Current Focus:** Building modern full-stack applications, exploring AI tools, and continuously leveling up my problem-solving skills.
-*   **Core Competencies:** Full-Stack Development (React, Node.js, Python), Algorithms, and Machine Learning basics.
-*   **Philosophy:** Great software is built on curiosity, clean coding practices, and a persistent drive to learn and improve.
+* **Current Focus:** Building modern full-stack applications, exploring AI tools, and continuously leveling up my algorithmic problem-solving skills.
+* **Core Competencies:** Full-Stack Development (React, Node.js, Python), Data Structures & Algorithms, and Machine Learning basics.
+* **Philosophy:** Great software is built on curiosity, clean coding practices, and a persistent drive to learn and improve.
 
 ---
 
@@ -33,7 +38,6 @@ Beyond writing code, I thrive on understanding how complex systems work, improvi
 Below are some of my top deployed applications, showcasing my ability to build complete products from concept to production.
 
 <table width="100%" align="center">
-  <!-- ROW 1 -->
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>PrepAI</h3>
@@ -63,7 +67,6 @@ Below are some of my top deployed applications, showcasing my ability to build c
     </td>
   </tr>
   
-  <!-- ROW 2 -->
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>JNTUH Results</h3>
@@ -93,7 +96,6 @@ Below are some of my top deployed applications, showcasing my ability to build c
     </td>
   </tr>
 
-  <!-- ROW 3 -->
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>Food Image Classification</h3>
@@ -144,10 +146,10 @@ Below are some of my top deployed applications, showcasing my ability to build c
 
 Beyond the UI, I engineer complex backend systems and ML pipelines:
 
-*   [**Real-Time Conversational AI Backend**](https://github.com/9mit/Real-Time-Conversational-AI-Backend) - High-throughput async Python backend implementing real-time bi-directional WebSocket communication and LLM streaming.
-*   [**SentinelSight**](https://github.com/9mit/SentinelSight) - Secure, local-first video analytics using CV to detect intrusions in real-time.
-*   [**LLM RAG Evaluation Pipeline**](https://github.com/9mit/-LLM-RAG-Evaluation-Pipeline) - Zero-cost, real-time quality assurance for RAG systems using local Small Language Models.
-*   [**LIFE-OS**](https://github.com/9mit/LIFE-OS) - A privacy-first, browser-based assistant analyzing offline data securely.
+* [**Real-Time Conversational AI Backend**](https://github.com/9mit/Real-Time-Conversational-AI-Backend) - High-throughput async Python backend implementing real-time bi-directional WebSocket communication and LLM streaming.
+* [**SentinelSight**](https://github.com/9mit/SentinelSight) - Secure, local-first video analytics using CV to detect intrusions in real-time.
+* [**LLM RAG Evaluation Pipeline**](https://github.com/9mit/-LLM-RAG-Evaluation-Pipeline) - Zero-cost, real-time quality assurance for RAG systems using local Small Language Models.
+* [**LIFE-OS**](https://github.com/9mit/LIFE-OS) - A privacy-first, browser-based assistant analyzing offline data securely.
 
 <br/>
 
