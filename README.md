@@ -23,7 +23,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face" width="35" height="35" /> About Me
 
-I am a **Data Science and Engineering graduate** who loves building and solving complex problems. As a fresher with a strong passion for software development, I am eager to learn, explore new technologies, and create impactful applications.
+I am a **Computer Science and Engineering graduate** who loves building and solving complex problems. As a fresher with a strong passion for software development, I am eager to learn, explore new technologies, and create impactful applications.
 
 Beyond writing code and tackling competitive programming challenges, I thrive on understanding how complex systems work, improving my skills, and collaborating with others to build awesome digital products.
 
