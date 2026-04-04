@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://naumit.duckdns.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=800&lines=Data+Science+%26+Engineering+Grad;Loves+Building+and+Solving+Problems;Crafting+Web+Experiences;Eager+to+Learn+and+Grow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Grad;Loves+Building+and+Solving+Problems;Crafting+Web+Experiences;Eager+to+Learn+and+Grow" alt="Typing SVG" />
   </a>
 </p>
 
