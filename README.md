@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d17,35:0a261d,70:072218,100:060d17&height=280&section=header&text=Naumit%20Agarwal&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=CS%20Engineer%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Product%20Builder&descAlignY=58&descAlign=50&animation=fadeIn&stroke=10b981&strokeWidth=1" width="100%" alt="Naumit Agarwal Header Banner" />
@@ -33,14 +33,22 @@
 
   <br/>
 
+
   <!-- Profile Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=9mit&color=10b981&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+  <br/><br/>
+
+  <!-- 🏆 GitHub Profile Trophies (10+ Awards Suite) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=9mit&theme=matrix&column=5&margin-w=8&margin-h=8&no-bg=true" alt="Naumit's GitHub Profile Trophies" />
+  </a>
 
 </div>
 
 ---
 
-## ⚡ Executive Summary
+## âš¡ Executive Summary
 
 I am a **Computer Science Engineer** and **AI Systems Builder** who bridges the gap between frontier AI research and battle-tested production software. I do not just prototype with API keys: I independently architect, harden, and ship scalable applications with active users and sub-second inference pipelines.
 
@@ -48,11 +56,11 @@ I am a **Computer Science Engineer** and **AI Systems Builder** who bridges the 
 Title: Computer Science Engineer & Full-Stack Architect
 Flagship Project: CodeSamjho.online (Production Solo SaaS with active users)
 Popular Extension: Volumify (5,000+ active users on Chrome Web Store)
-Specializations: Production RAG Pipelines • LLM Evaluation • Async WebSockets • Linux VPS & Security
+Specializations: Production RAG Pipelines â€¢ LLM Evaluation â€¢ Async WebSockets â€¢ Linux VPS & Security
 Founding Cohort: YouWare Founding Creator (Early platform creator driving AI-native apps)
 ```
 
-### 🎯 Core Engineering Pillars
+### ðŸŽ¯ Core Engineering Pillars
 
 * **Enterprise AI Evaluation & Faithfulness:** Professional experience at **Zensar Technologies** evaluating and optimizing enterprise LLM pipelines for hallucination reduction, context precision, and faithfulness across production workloads.
 * **Full-Lifecycle Production Engineering:** Solo architect of **CodeSamjho.online** (from database modeling and AST execution tracing to Linux VPS Docker deployment) and creator of **Volumify** (serving 5,000+ active users).
@@ -61,7 +69,7 @@ Founding Cohort: YouWare Founding Creator (Early platform creator driving AI-nat
 
 ---
 
-## 🚀 Top 5 Featured Projects
+## ðŸš€ Top 5 Featured Projects
 
 ### 01. CodeSamjho: AI-Powered Multi-Language Code Visualization SaaS
 
@@ -152,18 +160,18 @@ A privacy-centric, browser-based personal operating system designed to streamlin
 
 ---
 
-## 🛠️ Technical Arsenal
+## ðŸ› ï¸ Technical Arsenal
 
 <div align="center">
 
-### 💻 Languages & Systems
+### ðŸ’» Languages & Systems
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,ts,js,rust,cpp,c,postgres,html,css,bash&theme=dark" alt="Languages" />
 </a>
 
 <br/><br/>
 
-### 🧠 GenAI, LLM Infrastructure & Machine Learning
+### ðŸ§  GenAI, LLM Infrastructure & Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -176,21 +184,21 @@ A privacy-centric, browser-based personal operating system designed to streamlin
 
 <br/>
 
-### 🌐 Frontend & User Interfaces
+### ðŸŒ Frontend & User Interfaces
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,redux,sass&theme=dark" alt="Frontend" />
 </a>
 
 <br/><br/>
 
-### ⚙️ Backend & Data Persistence
+### âš™ï¸ Backend & Data Persistence
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,prisma,mongodb,sqlite,redis&theme=dark" alt="Backend" />
 </a>
 
 <br/><br/>
 
-### 🛡️ Cloud, DevOps, Infrastructure & Native
+### ðŸ›¡ï¸ Cloud, DevOps, Infrastructure & Native
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,cloudflare,git,github,githubactions,postman,tauri&theme=dark" alt="DevOps" />
 </a>
@@ -199,7 +207,7 @@ A privacy-centric, browser-based personal operating system designed to streamlin
 
 ---
 
-## 🤝 Let's Collaborate & Build
+## ðŸ¤ Let's Collaborate & Build
 
 I am constantly looking to collaborate on high-impact AI systems, low-latency infrastructure, and ambitious engineering products.
 
@@ -223,3 +231,4 @@ I am constantly looking to collaborate on high-impact AI systems, low-latency in
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d17,35:0a261d,70:072218,100:060d17&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Banner" />
 
 </div>
+
