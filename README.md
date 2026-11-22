@@ -39,16 +39,64 @@
 
   <br/><br/>
 
-  <!-- 🏆 GitHub Profile Trophies (10+ Awards Suite) -->
+  <!-- 🏆 Verified GitHub Achievements Strip (11 Awards) -->
+  <p align="center">
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/pull-shark-default.png" width="54" alt="Pull Shark" title="Pull Shark - Merged Pull Requests (Bronze x2)" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/quickdraw-default.png" width="54" alt="Quickdraw" title="Quickdraw - Closed Issue in under 5 mins" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/yolo-default.png" width="54" alt="YOLO" title="YOLO - Merged PR without review" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/pair-extraordinaire-default.png" width="54" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored Merged PR" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/galaxy-brain-default.png" width="54" alt="Galaxy Brain" title="Galaxy Brain - Discussion Answer Accepted" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/starstruck-default.png" width="54" alt="Starstruck" title="Starstruck - Community Stars" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/public-sponsor-default.png" width="54" alt="Public Sponsor" title="Public Sponsor - Sponsor Creators" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/arctic-code-vault-contributor-default.png" width="54" alt="Arctic Code Vault" title="Arctic Code Vault Contributor" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/mars-2020-contributor-default.png" width="54" alt="Mars 2020 Contributor" title="Mars 2020 Helicopter Contributor" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/open-sourcerer-default.png" width="54" alt="Open Sourcerer" title="Open Sourcerer" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/9mit?tab=achievements">
+      <img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/heart-on-your-sleeve-default.png" width="54" alt="Heart on Your Sleeve" title="Heart on Your Sleeve" />
+    </a>
+  </p>
+
+
+  <br/><br/>
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=9mit&theme=matrix&column=5&margin-w=8&margin-h=8&no-bg=true" alt="Naumit's GitHub Profile Trophies" />
   </a>
 
 </div>
 
 ---
 
-## âš¡ Executive Summary
+## ⚡ Executive Summary
 
 I am a **Computer Science Engineer** and **AI Systems Builder** who bridges the gap between frontier AI research and battle-tested production software. I do not just prototype with API keys: I independently architect, harden, and ship scalable applications with active users and sub-second inference pipelines.
 
@@ -56,11 +104,11 @@ I am a **Computer Science Engineer** and **AI Systems Builder** who bridges the 
 Title: Computer Science Engineer & Full-Stack Architect
 Flagship Project: CodeSamjho.online (Production Solo SaaS with active users)
 Popular Extension: Volumify (5,000+ active users on Chrome Web Store)
-Specializations: Production RAG Pipelines â€¢ LLM Evaluation â€¢ Async WebSockets â€¢ Linux VPS & Security
+Specializations: Production RAG Pipelines • LLM Evaluation • Async WebSockets • Linux VPS & Security
 Founding Cohort: YouWare Founding Creator (Early platform creator driving AI-native apps)
 ```
 
-### ðŸŽ¯ Core Engineering Pillars
+### 🎯 Core Engineering Pillars
 
 * **Enterprise AI Evaluation & Faithfulness:** Professional experience at **Zensar Technologies** evaluating and optimizing enterprise LLM pipelines for hallucination reduction, context precision, and faithfulness across production workloads.
 * **Full-Lifecycle Production Engineering:** Solo architect of **CodeSamjho.online** (from database modeling and AST execution tracing to Linux VPS Docker deployment) and creator of **Volumify** (serving 5,000+ active users).
@@ -69,7 +117,7 @@ Founding Cohort: YouWare Founding Creator (Early platform creator driving AI-nat
 
 ---
 
-## ðŸš€ Top 5 Featured Projects
+## 🚀 Top 5 Featured Projects
 
 ### 01. CodeSamjho: AI-Powered Multi-Language Code Visualization SaaS
 
@@ -164,7 +212,7 @@ A privacy-centric, browser-based personal operating system designed to streamlin
 
 <div align="center">
 
-### ðŸ’» Languages & Systems
+### 💻 Languages & Systems
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,ts,js,rust,cpp,c,postgres,html,css,bash&theme=dark" alt="Languages" />
 </a>
@@ -191,23 +239,47 @@ A privacy-centric, browser-based personal operating system designed to streamlin
 
 <br/><br/>
 
-### âš™ï¸ Backend & Data Persistence
+### ⚙️ Backend & Data Persistence
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,prisma,mongodb,sqlite,redis&theme=dark" alt="Backend" />
 </a>
 
 <br/><br/>
 
-### ðŸ›¡ï¸ Cloud, DevOps, Infrastructure & Native
+### 🛡️ Cloud, DevOps, Infrastructure & Native
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,cloudflare,git,github,githubactions,postman,tauri&theme=dark" alt="DevOps" />
 </a>
 
 </div>
 
+
 ---
 
-## ðŸ¤ Let's Collaborate & Build
+## 🏆 Official GitHub Achievements & Honors Showcase
+
+<div align="center">
+
+| Award Icon | Achievement Name | Tier / Classification | Qualification Criteria | Status |
+| :---: | :---: | :---: | :--- | :---: |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/pull-shark-default.png" width="75" alt="Pull Shark" /></a> | **Pull Shark** | **Bronze Tier (x2)** | Opened pull requests merged into default branch (16+ PRs merged) | ✅ **Earned** |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/quickdraw-default.png" width="75" alt="Quickdraw" /></a> | **Quickdraw** | **Active Badge** | Closed an issue or PR within 5 minutes of creation | ✅ **Earned** |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/yolo-default.png" width="75" alt="YOLO" /></a> | **YOLO** | **Active Badge** | Merged a pull request directly without code review | ✅ **Earned** |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/pair-extraordinaire-default.png" width="75" alt="Pair Extraordinaire" /></a> | **Pair Extraordinaire** | **Active Badge** | Co-authored git commits on merged pull requests | ✅ **Earned** |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/galaxy-brain-default.png" width="75" alt="Galaxy Brain" /></a> | **Galaxy Brain** | **Active Badge** | Authored accepted answers in repository Discussions | 🎯 In Progress |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/starstruck-default.png" width="75" alt="Starstruck" /></a> | **Starstruck** | **Active Badge** | Public repository created has accumulated 16+ community stars | 🎯 In Progress |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/public-sponsor-default.png" width="75" alt="Public Sponsor" /></a> | **Public Sponsor** | **Active Badge** | Financially sponsored open-source maintainers via GitHub Sponsors | 🎯 In Progress |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/arctic-code-vault-contributor-default.png" width="75" alt="Arctic Code Vault" /></a> | **Arctic Code Vault** | **Honorary Archive** | Preserved in the 2020 GitHub Arctic Code Vault repository archive | 🏛️ Historical |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/mars-2020-contributor-default.png" width="75" alt="Mars 2020 Contributor" /></a> | **Mars 2020 Contributor** | **Honorary Archive** | Contributed code to NASA's Mars 2020 Ingenuity Helicopter mission | 🚀 Historical |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/open-sourcerer-default.png" width="75" alt="Open Sourcerer" /></a> | **Open Sourcerer** | **Special Edition** | Outstanding public contributions and open-source platform author | ⚡ Active |
+| <a href="https://github.com/9mit?tab=achievements"><img src="https://raw.githubusercontent.com/9mit/9mit/main/assets/achievements/heart-on-your-sleeve-default.png" width="75" alt="Heart on Your Sleeve" /></a> | **Heart on Your Sleeve** | **Special Edition** | Community champion and impactful open-source collaboration | 💖 Active |
+
+</div>
+
+
+---
+
+## 🤝 Let's Collaborate & Build
 
 I am constantly looking to collaborate on high-impact AI systems, low-latency infrastructure, and ambitious engineering products.
 
@@ -231,4 +303,3 @@ I am constantly looking to collaborate on high-impact AI systems, low-latency in
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d17,35:0a261d,70:072218,100:060d17&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Banner" />
 
 </div>
-
